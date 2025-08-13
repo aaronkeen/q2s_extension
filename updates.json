@@ -1,4 +1,12 @@
 {
    "addons": {
+      "{93f59919-0312-4812-ac97-b21f8ab871f9}": {
+         "updates": [
+            {
+               "version": "0.1.1",
+               "update_link": "https://users.csc.calpoly.edu/~akeen/cpq2s/versions/c56fdd292eaf4ac89f6b-0.1.1.xpi"
+            }
+         ]
+      }
    }
 }
