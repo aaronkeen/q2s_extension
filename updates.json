@@ -9,6 +9,10 @@
             {
                "version": "0.1.2",
                "update_link": "https://users.csc.calpoly.edu/~akeen/cpq2s/versions/c56fdd292eaf4ac89f6b-0.1.2.xpi"
+            },
+            {
+               "version": "0.1.3",
+               "update_link": "https://users.csc.calpoly.edu/~akeen/cpq2s/versions/c56fdd292eaf4ac89f6b-0.1.3.xpi"
             }
          ]
       }
